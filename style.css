@@ -1,0 +1,66 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.name{
+    color: coral;
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(243, 63, 99);
+    color:aliceblue;
+    padding: 8px 15px 8px 15px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 8%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height:550px;
+}
+.mid-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work{
+    text-align: center;
+}
+
+
+*{
+    box-sizing: border-box;
+    padding: 2%;
+}
+.colm{
+    float: left;
+    width: 33%;
+}
+.row{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+.client{
+    text-align: center;
+}
+.message{
+   background-color: hotpink;
+   padding: 35px 42px 35px 5px;
+   margin: 0% 20% 0% 20%;
+   border-radius: 10px;
+   color:beige;
+}
+span{
+    font-weight: bold;
+    font-size: x-large;
+}
